@@ -1,5 +1,8 @@
-# Responsive Christmas Website
+# Responsive Christmas Website 🎄
  ---
+ 
+ ## [Deploy](https://merry-christmasapp.netlify.app/) 🖼️
+ 
 ### Responsive Christmas Website
 
 - Responsive Christmas Website Design Using HTML CSS & JavaScript
@@ -12,4 +15,4 @@
 
 ---
 
-![preview img](/preview.png)
+![preview img](preview.png)
