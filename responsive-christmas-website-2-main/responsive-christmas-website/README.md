@@ -23,5 +23,5 @@
 
 [![License](http://img.shields.io/:license-mit-green.svg?style=flat-square)](http://badges.mit-license.org)
 
-- **[MIT license](https://github.com/GabrielFraga962/Project_Website_Bank/blob/main/LICENSE)**;
+- **[MIT license](https://github.com/GabrielFraga962/Responsive_Christmas_Website_Design/blob/main/LICENSE)**;
 - Copyright 2023 © <a href="https://github.com/GabrielFraga962" target="_blank">Gabriel S. Fraga</a>.
